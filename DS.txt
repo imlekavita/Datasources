@@ -1,0 +1,20 @@
+
+Data Sources
+
+for certain providers (like aws ), terraform provides datasources
+ds provides you with dynamic information
+
+lot of data is available in aws in structuredd format
+ using Api
+
+example : list amis,list of az
+example datasources that gives u all id addresses use by aws
+based on an aws region
+
+
+create provider.tf vars.tf
+security.tf
+
+after vpc group security group region europe and ip address
+443 port 
+synnc token
